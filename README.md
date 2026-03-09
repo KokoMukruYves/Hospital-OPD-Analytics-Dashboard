@@ -51,15 +51,15 @@ The analysis followed a structured **ETL pipeline**:
 
 ### 1. Data Extraction
 
-* Connected Power BI to the hospital database (Excel / CSV)
+* Connected Power BI to the hospital database (Excel / CSV).
   
 
 ### 2. Data Cleaning
 
-* Handled missing values using complete case analysis for critical fields (`Patient_ID`, `Date`, `Age`, `Gender`)
-* Filled non-critical missing values (`Payment_Type` & 'Location') with default values (e.g. 'Unknown')
-* Corrected inconsistent values (e.g., negative ages, impossible timestamps in `Time_In`/`Time_Out`)
-* Standardized categorical values (`Gender`: Male/Female, `Payment_Type`: Private/Insurance/Other)
+* Handled missing values using complete case analysis for critical fields (`Patient_ID`, `Date`, `Age`, `Gender`).
+* Filled non-critical missing values (`Payment_Type` & 'Location') with default values (e.g. 'Unknown').
+* Corrected inconsistent values (e.g., negative ages, impossible timestamps in `Time_In`/`Time_Out`).
+* Standardized categorical values (`Gender`: Male/Female, `Payment_Type`: Private/Insurance/Other).
 
 
 ### 3. Data Transformation
@@ -68,7 +68,7 @@ The analysis followed a structured **ETL pipeline**:
 
 * Create measures and KPIs: Average Age, Average Days Between Visits, Average Visits per Day, New Patient Acquisition Rate, Total Patients, Retention Rate & Peak Hours/Hospital Rush.
 
-* Built supporting tables for temporal and demographic analysis (Daily Visits, Monthly Cohorts, Payment Trends)
+* Built supporting tables for temporal and demographic analysis (Daily Visits, Monthly Cohorts, Payment Trends).
 
 
 </details>
