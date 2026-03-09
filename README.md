@@ -157,7 +157,6 @@ Based on the insights, the following strategic actions are recommended:
 * **Monitor Peak Trends:** Regularly track daily and hourly patient patterns to adjust staffing, appointment slots, and resource allocation in real time.
 * **Cohort Analysis:** Analyze returning patient cohorts to understand long-term engagement trends and anticipate resource needs for chronic care or specialized services.
 * **Dashboard Updates:** Keep your OPD dashboard current with real-time data to support ongoing operational decisions and strategic planning.
----
 
 </details>
 
