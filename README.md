@@ -49,11 +49,6 @@ To achieve this goal, the dashboard focuses on several key analytical areas that
 The analysis followed a structured **ETL pipeline**:
 
 
-
-### -  Data Modeling
-- Established **one-to-many relationships** across schemas  
-- Ensured relational integrity for analysis  
-
 **Schema Diagram:**  
 <img width="695" height="496" alt="Schema" src="https://github.com/user-attachments/assets/cd3c5277-38b2-4be7-8c16-9db87e5e09a9" />
 
