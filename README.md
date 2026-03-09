@@ -120,8 +120,6 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 
 Based on the insights, the following strategic actions are recommended:
 
-Absolutely! Based on the insights from your OPD Attendance Dashboard, here are **key actionable recommendations** for hospital management, framed around operations, patient care, and strategic growth:
-
 ---
 
 ### **1. Optimize Staffing and Operational Efficiency**
@@ -159,16 +157,7 @@ Absolutely! Based on the insights from your OPD Attendance Dashboard, here are *
 * **Monitor Peak Trends:** Regularly track daily and hourly patient patterns to adjust staffing, appointment slots, and resource allocation in real time.
 * **Cohort Analysis:** Analyze returning patient cohorts to understand long-term engagement trends and anticipate resource needs for chronic care or specialized services.
 * **Dashboard Updates:** Keep your OPD dashboard current with real-time data to support ongoing operational decisions and strategic planning.
-
 ---
-
-💡 **In summary:** Focus on staffing optimization, patient retention programs, targeted outreach, and financial strategy based on payment behavior, while leveraging data insights continuously to improve both care and efficiency.
-
----
-
-If you want, I can **also turn these recommendations into a concise “Executive Action Plan” slide** that pairs directly with your dashboard visuals—perfect for management meetings.
-
-Do you want me to do that?
 
 </details>
 
