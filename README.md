@@ -84,7 +84,6 @@ The analysis followed a structured **ETL pipeline**:
 
 Here’s a polished storytelling-style insight summary for your OPD Attendance Dashboard, fully integrating the detailed points you provided:
 
----
 
 ### **The Story of Our Hospital’s Patient Flow and Performance**
 
@@ -107,8 +106,6 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 * **Age Distribution:** Young adults dominate, with **18–35 years old (4.4K)** forming the largest group, followed by **36–50 years**. Pediatrics and seniors make up smaller portions.
 * **Gender Balance:** A slight majority are male (**54%**) versus female (**46%**), suggesting a fairly balanced patient population.
 * **Payment Trends:** Private pay (**5.6K**) and insurance (**3.9K**) lead our revenue streams, signaling strong financial stability and preference for premium services.
-
----
 
 </details>
 
