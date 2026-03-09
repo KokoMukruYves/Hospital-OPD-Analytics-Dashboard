@@ -19,9 +19,12 @@ To support data-driven decision-making in hospital management, the dashboard see
 
 - What proportion of patients are new versus returning, and how frequently do patients revisit the hospital?
 
-- When does the hospital experience the highest patient demand in terms of days and hours of operation? 
+- When does the hospital experience the highest patient demand in terms of days and hours of operation?
+
+  
 
 The primary objective of this dashboard is to provide actionable insights into outpatient department (OPD) activity by analyzing patient attendance, demographics, visit patterns, and operational demand to support data-driven decision-making in healthcare management.
+
 
 To achieve this goal, the dashboard focuses on several key analytical areas that provide a comprehensive understanding of outpatient department performance and patient behavior:
 
