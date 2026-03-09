@@ -90,19 +90,19 @@ Here’s a polished storytelling-style insight summary for your OPD Attendance D
 
 Step inside our hospital, and you’ll see a vibrant ecosystem of care. Every year, **12,000 patients** seek our services, with an **average of 72 patients per day**. This steady flow reflects a **6.1% growth rate**, showing that our hospital continues to attract new individuals while retaining loyal visitors. In fact, **55% of our patients are new**, while **45% are returning**, highlighting both our outreach success and patient trust.
 
-#### **When and How Patients Visit**
+#### **1. When and How Patients Visit**
 
 * **Morning Rush:** The busiest window is the morning, with **7.1K visits**, followed by afternoons, evenings, and nights.
 Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This insight is crucial for optimizing staff allocation and reducing wait times.
 * **Outpatient Focus:** A striking **88% of our volume is outpatient care**, confirming that our hospital primarily serves as a primary care and diagnostic center.
 
-#### **Patient Loyalty and Retention**
+#### **2. Patient Loyalty and Retention**
 
 * Our **retention rate of 75.5%** is a strong testament to patient satisfaction and trust.
 * Most patients visit **once (6.4K)**, but a significant portion comes **2–4+ times**, reflecting chronic care needs or scheduled follow-ups.
 * With an **average interval of 47 days between visits**, our patient cohorts—especially older ones—demonstrate long-term engagement.
 
-#### **Who Are Our Patients?**
+#### **3. Who Are Our Patients?**
 
 * **Age Distribution:** Young adults dominate, with **18–35 years old (4.4K)** forming the largest group, followed by **36–50 years**. Pediatrics and seniors make up smaller portions.
 * **Gender Balance:** A slight majority are male (**54%**) versus female (**46%**), suggesting a fairly balanced patient population.
