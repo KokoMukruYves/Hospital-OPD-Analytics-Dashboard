@@ -1,6 +1,6 @@
 # Hospital-OPD-Analytics-Dashboard
 
-<img width="854" height="616" alt="736b8580-2565-4e35-a4ea-df390c849c7e" src="https://github.com/user-attachments/assets/dc3325ae-73e7-4a04-920f-8388f4472fcd" />
+<img width="345" height="286" alt="736b8580-2565-4e35-a4ea-df390c849c7e" src="https://github.com/user-attachments/assets/dc3325ae-73e7-4a04-920f-8388f4472fcd" />
 
 
 <details>
