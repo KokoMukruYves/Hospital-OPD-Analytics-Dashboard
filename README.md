@@ -88,11 +88,12 @@ Here’s a polished storytelling-style insight summary for your OPD Attendance D
 
 ### **The Story of Our Hospital’s Patient Flow and Performance**
 
-Step inside our hospital, and you’ll see a vibrant ecosystem of care. Every month, **12,000 patients** seek our services, with an **average of 72 patients per day**. This steady flow reflects a **6.1% growth rate**, showing that our hospital continues to attract new individuals while retaining loyal visitors. In fact, **55% of our patients are new**, while **45% are returning**, highlighting both our outreach success and patient trust.
+Step inside our hospital, and you’ll see a vibrant ecosystem of care. Every year, **12,000 patients** seek our services, with an **average of 72 patients per day**. This steady flow reflects a **6.1% growth rate**, showing that our hospital continues to attract new individuals while retaining loyal visitors. In fact, **55% of our patients are new**, while **45% are returning**, highlighting both our outreach success and patient trust.
 
 #### **When and How Patients Visit**
 
-* **Morning Rush:** The busiest window is the morning, with **7.1K visits**, followed by afternoons, evenings, and nights. Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This insight is crucial for optimizing staff allocation and reducing wait times.
+* **Morning Rush:** The busiest window is the morning, with **7.1K visits**, followed by afternoons, evenings, and nights.
+Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This insight is crucial for optimizing staff allocation and reducing wait times.
 * **Outpatient Focus:** A striking **88% of our volume is outpatient care**, confirming that our hospital primarily serves as a primary care and diagnostic center.
 
 #### **Patient Loyalty and Retention**
