@@ -143,7 +143,7 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 
 * **Follow-Up Reminders:** With an **average of 47 days between visits**, implement automated follow-up reminders (SMS/email) for returning patients, particularly those with chronic care needs.
 * **Loyalty Programs:** Develop targeted programs for returning patients (45% of total), such as priority appointments or health packages, to maintain and improve the **75.5% retention rate**.
-* **Segmented Care Plans:** Identify frequent visitors (2–4+ visits) and provide tailored care or preventive programs to reduce unnecessary repeat visits while enhancing patient satisfaction.
+* **Segmented Care Plans:** Identify frequent visitors (2-4+ visits) and provide tailored care or preventive programs to reduce unnecessary repeat visits while enhancing patient satisfaction.
 
 
 ### **3. Targeted Outreach for Growth**
