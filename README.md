@@ -132,7 +132,9 @@ Based on the insights, the following strategic actions are recommended:
 
 ---
 
-[![Power BI Dashboard](https://img.shields.io/badge/Click_here_to_access_the_interactive_dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/links/K2dMandbYQ?ctid=941bbf5f-f2c0-4875-a24c-6907865d251a&pbi_source=linkShare)
+[![Power BI Dashboard](https://img.shields.io/badge/Click_here_to_access_the_interactive_dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDU0YTIwNTEtN2VjMi00NjA5LWJkOTgtOTI2MGQwMDIyY2RmIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
+
+
 
 
 ## 🔗 Connect with me
