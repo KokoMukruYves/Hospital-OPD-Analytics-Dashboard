@@ -117,7 +117,6 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 
 **Based on the insights, the following strategic actions are recommended:**
 
----
 
 ### **1. Optimize Staffing and Operational Efficiency**
 
@@ -125,7 +124,6 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 * **Flexible Scheduling:** Implement dynamic staffing or shift rotations aligned with **hourly patient flow** to maximize efficiency without overstaffing during quieter periods (evenings and nights).
 * **Outpatient Prioritization:** Given that **88% of patients are OPD**, consider separate streams or dedicated zones for outpatient care to improve patient flow and reduce congestion.
 
----
 
 ### **2. Enhance Patient Retention and Engagement**
 
@@ -133,21 +131,19 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 * **Loyalty Programs:** Develop targeted programs for returning patients (45% of total), such as priority appointments or health packages, to maintain and improve the **75.5% retention rate**.
 * **Segmented Care Plans:** Identify frequent visitors (2–4+ visits) and provide tailored care or preventive programs to reduce unnecessary repeat visits while enhancing patient satisfaction.
 
----
 
 ### **3. Targeted Outreach for Growth**
 
 * **New Patient Acquisition:** Since **55% of patients are new**, continue marketing and community outreach programs focusing on younger adults (18–35 years) who make up the largest demographic.
 * **Patient Education:** Provide health awareness campaigns or wellness programs to attract and retain younger patients while educating them on preventive care.
 
----
 
 ### **4. Financial and Service Strategy**
 
 * **Private & Insurance Pay Focus:** Since **private pay (5.6K) and insurance (3.9K)** dominate revenue, introduce **premium service packages** or expand insurance partnerships to improve financial stability.
 * **Payment Flexibility:** Offer convenient payment options for mid-tier and self-pay patients (3K) to enhance accessibility and encourage repeat visits.
 
----
+
 
 ### **5. Data-Driven Continuous Improvement**
 
