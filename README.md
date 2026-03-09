@@ -64,15 +64,12 @@ The analysis followed a structured **ETL pipeline**:
 
 ### - Data Transformation
 
-* Created additional calculated columns: Age_Group, Cohort_Month, First_Visit_Date, Hospital_Rush
-  
+* Created additional calculated columns: Age_Group, Cohort_Month, First_Visit_Date, Hospital_Rush.
+
+* Create measures and KPIs: Average Age, Average Days Between Visits, Average Visits per Day, New Patient Acquisition Rate, Total Patients, Retention Rate & Peak Hours/Hospital Rush.
+
 * Built supporting tables for temporal and demographic analysis (Daily Visits, Monthly Cohorts, Payment Trends)
 
----
-
-### - Measures & KPIs
-
-Create measures and KPIs: Average Age, Average Days Between Visits, Average Visits per Day, New Patient Acquisition Rate, Total Patients, Retention Rate & Peak Hours/Hospital Rush.
 
 </details>
 
