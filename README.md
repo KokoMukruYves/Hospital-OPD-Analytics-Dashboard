@@ -66,7 +66,9 @@ The analysis followed a structured **ETL pipeline**:
 
 
 ###  Demographics  and patient visits patterns Dashboard
-<img width="867" height="488" alt="image" src="https://github.com/user-attachments/assets/998b6867-1e90-4987-a82e-fdc8314805d9" />
+
+<img width="867" height="488" alt="image" src="https://github.com/user-attachments/assets/0572312e-3cae-43b2-96db-1d3aeb0bb47b" />
+
 
 ###  Temporal and cohort analysis Dashboard
 <img width="876" height="494" alt="image" src="https://github.com/user-attachments/assets/7897b7fd-5883-4efd-952d-489e89567062" />
