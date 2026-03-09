@@ -118,7 +118,7 @@ Peak days are **Mondays and Tuesdays**, particularly in the morning shift. This 
 <summary id="recommendations"> Recommendations</summary>
 
 
-Based on the insights, the following strategic actions are recommended:
+**Based on the insights, the following strategic actions are recommended:**
 
 ---
 
