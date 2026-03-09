@@ -48,13 +48,11 @@ To achieve this goal, the dashboard focuses on several key analytical areas that
 
 The analysis followed a structured **ETL pipeline**:
 
----
 
 ### - Data Extraction
 
 * Connected Power BI to the hospital database (Excel / CSV)
   
----
 
 ### - Data Cleaning
 
@@ -63,30 +61,18 @@ The analysis followed a structured **ETL pipeline**:
 * Corrected inconsistent values (e.g., negative ages, impossible timestamps in `Time_In`/`Time_Out`)
 * Standardized categorical values (`Gender`: Male/Female, `Payment_Type`: Private/Insurance/Other)
 
----
 
 ### - Data Transformation
 
-* Created additional calculated columns:
-
-  * **Age_Group**: Pediatrics (0–17), Young Adults (18–35), Adults (36–50), Seniors (51+)
-  * **Patient_Type**: New or Returning based on first visit date
-  * **Cohort_Month**: Month of patient’s first visit
-  * **First_Visit_Date**: Earliest visit date for each patient
-  * **Hospital_Rush**: Categorized visit time into Morning, Afternoon, Evening, Night based on `Time_In`
+* Created additional calculated columns: Age_Group, Cohort_Month, First_Visit_Date, Hospital_Rush
+  
 * Built supporting tables for temporal and demographic analysis (Daily Visits, Monthly Cohorts, Payment Trends)
 
 ---
 
 ### - Measures & KPIs
 
-* **Average Age**: Mean age of patients
-* **Average Days Between Visits**: Interval between successive visits per patient
-* **Average Visits per Day**: Daily patient volume
-* **New Patient Acquisition Rate**: Percentage of new patients per period
-* **Total Patients**: Cumulative number of unique patients
-* **Retention Rate**: Percentage of returning patients
-* **Peak Hours / Hospital Rush**: Number of patients per time segment
+Create measures and KPIs: Average Age, Average Days Between Visits, Average Visits per Day, New Patient Acquisition Rate, Total Patients, Retention Rate & Peak Hours/Hospital Rush.
 
 </details>
 
