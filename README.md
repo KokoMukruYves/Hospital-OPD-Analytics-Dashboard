@@ -6,17 +6,20 @@
 <details>
 <summary id="introduction"> Introduction</summary>
 
+
 A healthcare analytics dashboard built with Power BI to analyze outpatient department (OPD) attendance, patient retention, visit frequency, and demographic trends.
+
+
 
 To support data-driven decision-making in hospital management, the dashboard seeks to answer several key business questions related to patient demand, demographics, retention, and operational efficiency.
 
-What are the overall trends in outpatient department (OPD) patient attendance over time?
+- What are the overall trends in outpatient department (OPD) patient attendance over time?
 
-What demographic groups (age, gender, and location) represent the majority of patients visiting the hospital?
+- What demographic groups (age, gender, and location) represent the majority of patients visiting the hospital?
 
-What proportion of patients are new versus returning, and how frequently do patients revisit the hospital?
+- What proportion of patients are new versus returning, and how frequently do patients revisit the hospital?
 
-When does the hospital experience the highest patient demand in terms of days and hours of operation? 
+- When does the hospital experience the highest patient demand in terms of days and hours of operation? 
 
 The primary objective of this dashboard is to provide actionable insights into outpatient department (OPD) activity by analyzing patient attendance, demographics, visit patterns, and operational demand to support data-driven decision-making in healthcare management.
 
