@@ -49,12 +49,12 @@ To achieve this goal, the dashboard focuses on several key analytical areas that
 The analysis followed a structured **ETL pipeline**:
 
 
-### - Data Extraction
+### 1. Data Extraction
 
 * Connected Power BI to the hospital database (Excel / CSV)
   
 
-### - Data Cleaning
+### 2. Data Cleaning
 
 * Handled missing values using complete case analysis for critical fields (`Patient_ID`, `Date`, `Age`, `Gender`)
 * Filled non-critical missing values (`Payment_Type` & 'Location') with default values (e.g. 'Unknown')
@@ -62,7 +62,7 @@ The analysis followed a structured **ETL pipeline**:
 * Standardized categorical values (`Gender`: Male/Female, `Payment_Type`: Private/Insurance/Other)
 
 
-### - Data Transformation
+### 3. Data Transformation
 
 * Created additional calculated columns: Age_Group, Cohort_Month, First_Visit_Date, Hospital_Rush.
 
