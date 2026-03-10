@@ -4,6 +4,7 @@
 
 <img width="245" height="226" alt="Personnel médical en" src="https://github.com/user-attachments/assets/7e11e6f1-c7cc-4c3a-8683-7733011e8289" />
 
+<img width="246" height="227" alt="Salle d’attente d’hô" src="https://github.com/user-attachments/assets/12d0b335-db34-467e-8d48-598efc43f5b0" />
 
 <details>
 <summary id="introduction"> Introduction</summary>
