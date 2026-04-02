@@ -101,10 +101,6 @@ The analysis followed a structured **ETL pipeline**:
 <summary id="results--insights"> Results / Insights</summary>
 
 
-
-Here’s a polished storytelling-style insight summary for your OPD Attendance Dashboard, fully integrating the detailed points you provided:
-
-
 ### **The Story of Our Hospital’s Patient Flow and Performance**
 
 Step inside our hospital, and you’ll see a vibrant ecosystem of care. Every year, **12,000 patients** seek our services, with an **average of 72 patients per day**. This steady flow reflects a **6.1% growth rate**, showing that our hospital continues to attract new individuals while retaining loyal visitors. In fact, **55% of our patients are new**, while **45% are returning**, highlighting both our outreach success and patient trust.
